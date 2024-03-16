@@ -1,10 +1,8 @@
 <html>
 <head>
-<title>Ye Cheng Tse 谢业成</title>
+<title>yctse.github.io</title>
 <link href="style3.css" rel="stylesheet" type="text/css">
 </head>
-
-<body background="car brand.jpg">
 
 <body>
 <center>
