@@ -1,5 +1,5 @@
 ### Ye Cheng Tse 
-- 🔭 My research interest cover in the area of Machine Learning, Genetic Programming, Optimizatin, Computer Algebra, and Mathematical Science.
+- 🔭 My research interest cover in the area of Machine Learning, Genetic Programming,and Mathematical Science.
 - Hobbies: Travel, Photography, Animals, Plants, Movies,Space, Video Games and Sports.
 - South China University of Technology  
 - Computer Science  
